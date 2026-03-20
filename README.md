@@ -1,4 +1,4 @@
-<img width="499" height="529" alt="image" src="https://github.com/user-attachments/assets/5e0eb023-794d-447e-af26-4b7455b6286c" /># PLA1006 - Internal Assessment 1
+- Internal Assessment 1
 
 ## 👤 Student Details
 - **Name:** Devya Saigal  
