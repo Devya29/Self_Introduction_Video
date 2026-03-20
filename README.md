@@ -1,7 +1,8 @@
 - Internal Assessment 1
 
 ## 👤 Student Details
-- **Name:** Devya Saigal  
+- **Name:** Devya Saigal
+- **Reg Num:** 23BCE10961
 - **Slot:** E11  
 
 ## 🎥 Self Introduction Video
